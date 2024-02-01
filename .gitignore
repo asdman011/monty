@@ -1,0 +1,17 @@
+###################
+# Maven
+###################
+src/site/markdown/index.md
+dependency-reduced-pom.xml
+target/
+
+###################
+# Editor
+###################
+.classpath
+.project
+.settings/
+moco.iml
+.idea/*
+*.swp
+
